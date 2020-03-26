@@ -1841,4 +1841,9 @@ header .navbar .cta-btn a:hover {
     margin:auto;
 }
 
+.single_client_logo {
+    vertical-align: middle;
+    margin: auto
+}
+
 /*# sourceMappingURL=style.css.map */
